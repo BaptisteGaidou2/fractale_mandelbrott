@@ -19,7 +19,7 @@ const double PLAN_COMPLEXE_LIM_HAUT=1;
 const double PLAN_COMPLEXE_LIM_BAS=-1;
 */
 const double PLAN_COMPLEXE_LIM_GAUCHE=-1.758;
-const double PLAN_COMPLEXE_LIM_DROITE=-1.75775;
+const double PLAN_COMPLEXE_LIM_DROITE=-1.7575;
 const double PLAN_COMPLEXE_LIM_HAUT=-0.01624;
 const double PLAN_COMPLEXE_LIM_BAS=-0.01677;
 
@@ -558,5 +558,4 @@ unsigned char* createBitmapInfoHeader()
         taille_verticale=taille_verticale*-1;
     }
     */
-
 
